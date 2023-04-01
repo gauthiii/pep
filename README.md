@@ -6,7 +6,7 @@ Built using flutter and firebase
 
 ~Gautham Vijayaraj
 
-# To RUN
+# To run the app
 
 To run open the file location in termninal and enter "flutter run"
 
